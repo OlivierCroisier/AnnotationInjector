@@ -1,1 +1,0 @@
-@MyAnnotation(message = "un autre message") package net.thecodersbreakfast.annotationinjector.demo;
