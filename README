@@ -1,0 +1,4 @@
+AnnotationInjector is a small Java library that allows to inject annotations in classes at runtime.
+I developed it as a demo for conference on annotations I presented at many Java User Groups.
+It is mostly a technical experiment and NOT intended for production use.
+

@@ -1,0 +1,1 @@
+@AnnotationB("bar") package net.thecodersbreakfast.annotationinjector;
